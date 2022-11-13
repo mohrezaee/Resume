@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="my_name">Mohammad Rezaie</string>
+    <string name="title_1">PERSONAL CHARACTERISTIC</string>
+    <string name="paragraph_1">Trustworthy\nFast learner\nHighly committed</string>
+    <string name="title_2">EDUCATION HIGHLIGHTS</string>
+    <string name="paragraph_2">Sharif University of Technology # 2020 - now Computer Engineering
+        \n\nDoctor Shahriari Gifted High School # 2017 - 2020 Mathematics and Physics diploma
+        </string>
+
+    <string name="title_3">WORK EXPERIENCE</string>
+    <string name="paragraph_3">Spara # 5 Feb 2022 - now Backend developer @EDR
+        \n\nFreelance # 5 Sep 2020 - now Frontend - Backend developer
+        </string>
+
+    <string name="title_4">SKILLS</string>
+    <string name="paragraph_4">Reactjs (HTML, CSS, Material UI, etc…)
+        \nNodejs
+        \nKafka
+        \nMongoDB
+        \nElasticsearch
+        \nGit
+        \nDocker
+        </string>
+    <string name="call_me">Call Me</string>
+</resources>
